@@ -2,7 +2,7 @@
 
 # Object Detection Process Steps
 
-This README file provides an overview of the steps involved in the object detection process for our project. It explains how to prepare the data, initialize the model, perform feature extraction, classify objects, apply post-processing, and obtain the final output.
+This README file provides an overview of the steps involved in the object detection process for our project. It explains how to prepare the data, initialize the model, perform feature extraction, classify objects,and obtain the final output.
 
 ## Steps
 
